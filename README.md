@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-ovghb/ovghb is a ✨ special ✨ repository because its `README.md` (ovghb/kuhero) appears on your GitHub profile.
+ovghb/ovghb is a ✨ special ✨ repository because its `README.md` (ovghb/kuhero) appears on your ovghb/kuhero profile.
 You can click the Preview link to take a look at your changes.
 --->
