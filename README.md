@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-ovghb/ovghb is a ✨ special ✨ repository because its `README.md` (this file) appears on ovghb GitHub profile.
+ovghb/ovghb is a ✨ special ✨ repository because its `README.md` (ovghb) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
